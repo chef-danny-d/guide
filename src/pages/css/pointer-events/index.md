@@ -3,7 +3,7 @@ title: Pointer Events
 ---
 ## Pointer Events
 
-This property specifies how your mouse reacts when you hover over a link.
+This property specifies how your mouse reacts when you hover over any element on a page.
 
 ### Example
 
